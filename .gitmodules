@@ -1,0 +1,6 @@
+[submodule "vue-next"]
+	path = vue-next
+	url = https://hub.fastgit.org/vuejs/vue-next.git
+[submodule "vue-next-router"]
+	path = vue-next-router
+	url = https://hub.fastgit.org/vuejs/vue-router-next.git
